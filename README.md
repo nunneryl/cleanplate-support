@@ -1,2 +1,4 @@
 # cleanplate-support
-Support page for CleanPlate App - Includes the privacy policy
+Support documents for the CleanPlate App.
+
+* [Privacy Policy](privacy.html)
