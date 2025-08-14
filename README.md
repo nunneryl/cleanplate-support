@@ -2,3 +2,4 @@
 Support documents for the CleanPlate App.
 
 * [Privacy Policy](privacy.html)
+* [Cookie Policy](cookie.html) 
